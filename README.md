@@ -19,7 +19,7 @@ Dash down the never-ending railway, dodge oncoming trains, clear hazardous barri
 Get your fingers ready on the keyboard:
 * ⬅️ **Left Arrow Key** — Fast-slide into the left lane
 * ➡️ **Right Arrow Key** — Fast-slide into the right lane
-* ⬆️  Spacebar** — Leap clear over low-lying barricades
+* ⬆️  **Spacebar** — Leap clear over low-lying barricades
 
 ---
 
@@ -32,3 +32,6 @@ Get your fingers ready on the keyboard:
 * 🎮 **Play the Live Simulation:** [Click here to play on gd.games]..Here is the link -> https://gd.games/games/b1902cd9-b526-4a10-9a0a-34a28d9fd6d7
 
 *Built as a core mechanics prototype to master procedural item spawning, grid position anchoring, and delta-time texture manipulation.*
+
+
+#gamedevelopment #software #coding
