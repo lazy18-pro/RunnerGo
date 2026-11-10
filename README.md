@@ -1,6 +1,6 @@
 # 🏃‍♂️ RunnerGo 🚄
 
-Welcome to the tracks! **RunnerGo** is a fast-paced, high-energy 3D endless runner game inspired by the legendary *Subway Surfers*. Built completely from scratch using the **GDevelop** engine, this project takes classic lane-switching mechanics and packs them into a lightweight, arcade-style experience.
+Welcome to the tracks! **RunnerGo** is a fast-paced, high-energy 3D endless runner game. Built completely from scratch using the **GDevelop** engine, this project takes classic lane-switching mechanics and packs them into a lightweight, arcade-style experience.
 
 ---
 
